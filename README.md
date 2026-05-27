@@ -13,6 +13,12 @@
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zubair-trabzada/geo-seo-claude&type=Date)](https://www.star-history.com/#zubair-trabzada/geo-seo-claude&Date)
+
+---
+
 ## Why GEO Matters (2026)
 
 | Metric | Value |
@@ -254,11 +260,9 @@ GEO agencies charge $2K–$12K/month. This tool does the audit. The community te
 
 ---
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zubair-trabzada/geo-seo-claude&type=Date)](https://www.star-history.com/#zubair-trabzada/geo-seo-claude&Date)
 
----
+
 
 ## License
 
